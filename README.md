@@ -1,4 +1,4 @@
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/6acee9df-9df7-4ae6-833f-e985a9a1548d" />
+<img width="140" alt="image" src="https://github.com/user-attachments/assets/6acee9df-9df7-4ae6-833f-e985a9a1548d" />
 # Alter System
 
 **Modern Dynamic Island style desktop widget for Windows 10/11.**
