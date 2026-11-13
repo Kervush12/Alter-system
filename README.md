@@ -24,6 +24,6 @@ A lightweight, customizable floating hub for your desktop that brings essential 
 
 ## 📥 Download
 
-Download the latest installer (**Alter-System-Setup-1.0.0.exe**) from the **[Releases]https://github.com** page.
+Download the latest installer (**Alter-System-Setup-1.0.0.exe**) from the **[Releases]** https://github.com/Kervush12/Alter-system page.
 
 by oronoki / alternatived
